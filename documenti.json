@@ -1,0 +1,386 @@
+[
+  {
+    "Column1": "Codice",
+    "Column2": "Descrizione"
+  },
+  {
+    "Column1": "IDENT",
+    "Column2": "CARTA DI IDENTITA'"
+  },
+  {
+    "Column1": "CIDIP",
+    "Column2": "CARTA ID. DIPLOMATICA"
+  },
+  {
+    "Column1": "IDELE",
+    "Column2": "CARTA IDENTITA' ELETTRONICA"
+  },
+  {
+    "Column1": "CERID",
+    "Column2": "CERTIFICATO D'IDENTITA'"
+  },
+  {
+    "Column1": "PASSE",
+    "Column2": "PASSAPORTO DI SERVIZIO"
+  },
+  {
+    "Column1": "PASDI",
+    "Column2": "PASSAPORTO DIPLOMATICO"
+  },
+  {
+    "Column1": "PASOR",
+    "Column2": "PASSAPORTO ORDINARIO"
+  },
+  {
+    "Column1": "PATEN",
+    "Column2": "PATENTE DI GUIDA"
+  },
+  {
+    "Column1": "PATNA",
+    "Column2": "PATENTE NAUTICA"
+  },
+  {
+    "Column1": "PORM5",
+    "Column2": "PORTO D'ARMI GUARDIE GIUR"
+  },
+  {
+    "Column1": "PORM3",
+    "Column2": "PORTO D'ARMI USO SPORTIVO"
+  },
+  {
+    "Column1": "PORM2",
+    "Column2": "PORTO FUCILE DIF. PERSON."
+  },
+  {
+    "Column1": "PORM1",
+    "Column2": "PORTO FUCILE USO CACCIA"
+  },
+  {
+    "Column1": "PORM4",
+    "Column2": "PORTO PISTOLA DIF. PERSON"
+  },
+  {
+    "Column1": "TENAV",
+    "Column2": "TES. ENTE NAZ. ASSIS.VOLO"
+  },
+  {
+    "Column1": "TFEXD",
+    "Column2": "TES. FERROV. EX DEPUTATI"
+  },
+  {
+    "Column1": "TFERD",
+    "Column2": "TES. FERROVIARIA DEPUTATI"
+  },
+  {
+    "Column1": "TESPT",
+    "Column2": "TES. POSTE E TELECOMUNIC."
+  },
+  {
+    "Column1": "TECAM",
+    "Column2": "TES. UNICO PER LA CAMERA"
+  },
+  {
+    "Column1": "TEDOG",
+    "Column2": "TES.DOGANALE RIL.MIN.FIN."
+  },
+  {
+    "Column1": "CFMIL",
+    "Column2": "TESS. AG. E AG.SC. C.F.S."
+  },
+  {
+    "Column1": "PPAGE",
+    "Column2": "TESS. AGENTI/ASS.TI P.P."
+  },
+  {
+    "Column1": "PSAPP",
+    "Column2": "TESS. AGENTI/ASS.TI P.S."
+  },
+  {
+    "Column1": "ACMIL",
+    "Column2": "TESS. APP.TO AG.CUSTODIA"
+  },
+  {
+    "Column1": "CCMIL",
+    "Column2": "TESS. APP.TO CARABINIERI"
+  },
+  {
+    "Column1": "GFMIL",
+    "Column2": "TESS. APP.TO FINANZIERE"
+  },
+  {
+    "Column1": "VIMIL",
+    "Column2": "TESS. APP.TO/VIG. URBANO"
+  },
+  {
+    "Column1": "VVMIL",
+    "Column2": "TESS. APP.TO/VIG. VV.FF."
+  },
+  {
+    "Column1": "TESCS",
+    "Column2": "TESS. CONSIGLIO DI STATO"
+  },
+  {
+    "Column1": "TESCA",
+    "Column2": "TESS. CORTE D'APPELLO"
+  },
+  {
+    "Column1": "TECOC",
+    "Column2": "TESS. CORTE DEI CONTI"
+  },
+  {
+    "Column1": "TEFSE",
+    "Column2": "TESS. FERROV. SENATO"
+  },
+  {
+    "Column1": "PSFUN",
+    "Column2": "TESS. FUNZIONARI P.S."
+  },
+  {
+    "Column1": "TETEL",
+    "Column2": "TESS. IDENTIF.TELECOM IT."
+  },
+  {
+    "Column1": "TEAMC",
+    "Column2": "TESS. ISCR. ALBO MED/CHI."
+  },
+  {
+    "Column1": "TEAOD",
+    "Column2": "TESS. ISCRIZ. ALBO ODONT."
+  },
+  {
+    "Column1": "PPISP",
+    "Column2": "TESS. ISPETTORI P.P."
+  },
+  {
+    "Column1": "PSISP",
+    "Column2": "TESS. ISPETTORI P.S."
+  },
+  {
+    "Column1": "TESEA",
+    "Column2": "TESS. MEMBRO EQUIP. AEREO"
+  },
+  {
+    "Column1": "MMMIL",
+    "Column2": "TESS. MILIT. M.M."
+  },
+  {
+    "Column1": "SDMIL",
+    "Column2": "TESS. MILIT. TRUPPA SISMI"
+  },
+  {
+    "Column1": "EIMIL",
+    "Column2": "TESS. MILITARE E.I."
+  },
+  {
+    "Column1": "TENAT",
+    "Column2": "TESS. MILITARE NATO"
+  },
+  {
+    "Column1": "AMMIL",
+    "Column2": "TESS. MILITARE TRUPPA A.M"
+  },
+  {
+    "Column1": "TESAE",
+    "Column2": "TESS. MIN. AFFARI ESTERI"
+  },
+  {
+    "Column1": "TESMB",
+    "Column2": "TESS. MIN.BEN.E ATT.CULT."
+  },
+  {
+    "Column1": "TEMPI",
+    "Column2": "TESS. MIN.PUBB.ISTRUZIONE"
+  },
+  {
+    "Column1": "TESMN",
+    "Column2": "TESS. MINIST. TRASP/NAVIG"
+  },
+  {
+    "Column1": "TESMD",
+    "Column2": "TESS. MINISTERO DIFESA"
+  },
+  {
+    "Column1": "TESMF",
+    "Column2": "TESS. MINISTERO FINANZE"
+  },
+  {
+    "Column1": "TESMG",
+    "Column2": "TESS. MINISTERO GIUSTIZIA"
+  },
+  {
+    "Column1": "TESMI",
+    "Column2": "TESS. MINISTERO INTERNO"
+  },
+  {
+    "Column1": "TESLP",
+    "Column2": "TESS. MINISTERO LAVORI PU"
+  },
+  {
+    "Column1": "TESMS",
+    "Column2": "TESS. MINISTERO SANITA'"
+  },
+  {
+    "Column1": "TESMT",
+    "Column2": "TESS. MINISTERO TESORO"
+  },
+  {
+    "Column1": "TESOG",
+    "Column2": "TESS. ORDINE GIORNALISTI"
+  },
+  {
+    "Column1": "PARLA",
+    "Column2": "TESS. PARLAMENTARI"
+  },
+  {
+    "Column1": "MAGIS",
+    "Column2": "TESS. PERS. MAGISTRATI"
+  },
+  {
+    "Column1": "GFTRI",
+    "Column2": "TESS. POL. TRIB. G.D.F."
+  },
+  {
+    "Column1": "PSFEM",
+    "Column2": "TESS. POLIZIA FEMMINILE"
+  },
+  {
+    "Column1": "TESPC",
+    "Column2": "TESS. PRES.ZA CONS. MIN."
+  },
+  {
+    "Column1": "TESPI",
+    "Column2": "TESS. PUBBLICA ISTRUZIONE"
+  },
+  {
+    "Column1": "DESIS",
+    "Column2": "TESS. S.I.S.D.E."
+  },
+  {
+    "Column1": "ACSOT",
+    "Column2": "TESS. SOTT.LI AG.CUSTODIA"
+  },
+  {
+    "Column1": "GFSOT",
+    "Column2": "TESS. SOTT.LI G.D.F."
+  },
+  {
+    "Column1": "VISOT",
+    "Column2": "TESS. SOTT.LI VIG. URBANI"
+  },
+  {
+    "Column1": "VVSOT",
+    "Column2": "TESS. SOTTUFF.LI VV.FF."
+  },
+  {
+    "Column1": "AMSOT",
+    "Column2": "TESS. SOTTUFFICIALI A.M."
+  },
+  {
+    "Column1": "CCSOT",
+    "Column2": "TESS. SOTTUFFICIALI CC"
+  },
+  {
+    "Column1": "EISOT",
+    "Column2": "TESS. SOTTUFFICIALI E.I."
+  },
+  {
+    "Column1": "SDSOT",
+    "Column2": "TESS. SOTTUFFICIALI SISMI"
+  },
+  {
+    "Column1": "CFSOT",
+    "Column2": "TESS. SOTTUFICIALI C.F.S."
+  },
+  {
+    "Column1": "MMSOT",
+    "Column2": "TESS. SOTTUFICIALI M.M."
+  },
+  {
+    "Column1": "PPSOV",
+    "Column2": "TESS. SOVRINTENDENTI P.P."
+  },
+  {
+    "Column1": "PSSOT",
+    "Column2": "TESS. SOVRINTENDENTI P.S."
+  },
+  {
+    "Column1": "ACUFF",
+    "Column2": "TESS. UFF.LI AG.CUSTODIA"
+  },
+  {
+    "Column1": "VIUFF",
+    "Column2": "TESS. UFF.LI VIG.URBANI"
+  },
+  {
+    "Column1": "CCUFF",
+    "Column2": "TESS. UFFICIALE"
+  },
+  {
+    "Column1": "AMUFF",
+    "Column2": "TESS. UFFICIALI A.M."
+  },
+  {
+    "Column1": "CFUFF",
+    "Column2": "TESS. UFFICIALI C.F.S."
+  },
+  {
+    "Column1": "EIUFF",
+    "Column2": "TESS. UFFICIALI E.I."
+  },
+  {
+    "Column1": "GFUFF",
+    "Column2": "TESS. UFFICIALI G.D.F."
+  },
+  {
+    "Column1": "MMUFF",
+    "Column2": "TESS. UFFICIALI M.M."
+  },
+  {
+    "Column1": "PPUFF",
+    "Column2": "TESS. UFFICIALI P.P."
+  },
+  {
+    "Column1": "PSUFF",
+    "Column2": "TESS. UFFICIALI P.S."
+  },
+  {
+    "Column1": "SDUFF",
+    "Column2": "TESS. UFFICIALI SISMI"
+  },
+  {
+    "Column1": "VVUFF",
+    "Column2": "TESS. UFFICIALI VV.FF."
+  },
+  {
+    "Column1": "TESIN",
+    "Column2": "TESS.ISCR. ALBO INGEGNERI"
+  },
+  {
+    "Column1": "TESAR",
+    "Column2": "TESS.ISCR.ALBO ARCHITETTI"
+  },
+  {
+    "Column1": "TEPOL",
+    "Column2": "TESS.MIN.POLIT.AGRIC.FOR."
+  },
+  {
+    "Column1": "TESNO",
+    "Column2": "TESSERA DELL'ORDINE NOTAI"
+  },
+  {
+    "Column1": "TESAV",
+    "Column2": "TESSERA ISCR. ALBO AVVOC."
+  },
+  {
+    "Column1": "TESDI",
+    "Column2": "TESSERA RICONOSC. D.I.A."
+  },
+  {
+    "Column1": "TESUN",
+    "Column2": "TESSERA U.N.U.C.I."
+  },
+  {
+    "Column1": "RIFUG",
+    "Column2": "TITOLO VIAGGIO RIF.POLIT."
+  }
+]
